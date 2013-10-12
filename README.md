@@ -1,6 +1,6 @@
 # VMware Fusion for Boxen
 
-[![Build Status](https://travis-ci.org/boxen/puppet-vmware_fusion.png?branch=master)](https://travis-ci.org/boxen/puppet-vmware_fusion)
+[![Build Status](https://travis-ci.org/am/puppet-vmware_fusion.png?branch=master)](https://travis-ci.org/am/puppet-vmware_fusion)
 
 Installs VMware Fusion.
 Does not include a VMware Fusion license, which you must acquire from VMware.
